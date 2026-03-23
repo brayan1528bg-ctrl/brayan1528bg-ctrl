@@ -1,4 +1,4 @@
-# Data Cleaning & ETL Pipeline (Banking Use Case)
+# Data Cleaning & ETL Pipeline 
 
 ## Descripción
 Sistema de limpieza y validación de datos diseñado para empresas que manejan información sensible.
