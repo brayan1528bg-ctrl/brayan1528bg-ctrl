@@ -1,16 +1,32 @@
-## Hi there 👋
+# Data Cleaning & ETL Pipeline (Banking Use Case)
 
-<!--
-**brayan1528bg-ctrl/brayan1528bg-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Descripción
+Sistema de limpieza y validación de datos diseñado para empresas que manejan información sensible.
 
-Here are some ideas to get you started:
+## Problemas que resuelve
+- Datos duplicados
+- Errores en registros
+- Inconsistencias en bases de datos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Solución
+- Data Quality Gate
+- Separación de datos (clean / quarantine)
+- Automatización ETL
+
+## Tecnologías
+Python, Pandas, SQL, Airflow, AWS
+
+## Uso
+Ideal para:
+- Empresas con Excel
+- Nómina
+- Datos financieros
+
+- Especializado en análisis y limpieza de datos con enfoque en soluciones reales para empresas.
+
+✔ Eliminación de datos duplicados  
+✔ Validación de información sensible  
+✔ Automatización de procesos (ETL)  
+✔ Integración con bases de datos  
+
+Tecnologías: Python | Pandas | SQL | Airflow | AWS | PostgreSQL
