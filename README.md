@@ -1,32 +1,34 @@
-# Data Cleaning & ETL Pipeline 
+# 👋 Hola, soy Brayan Gutiérrez
 
-## Descripción
-Sistema de limpieza y validación de datos diseñado para empresas que manejan información sensible.
+💻 Data Engineer enfocado en limpieza y automatización de datos empresariales
 
-## Problemas que resuelve
-- Datos duplicados
-- Errores en registros
-- Inconsistencias en bases de datos
+Ayudo a empresas a:
+- Eliminar datos duplicados
+- Corregir errores en bases de datos
+- Organizar información sensible (nómina, clientes, finanzas)
+- Automatizar procesos con Python y SQL
 
-## Solución
-- Data Quality Gate
-- Separación de datos (clean / quarantine)
-- Automatización ETL
+---
 
-## Tecnologías
-Python, Pandas, SQL, Airflow, AWS
+## 🚀 Proyecto Destacado
 
-## Uso
-Ideal para:
-- Empresas con Excel
-- Nómina
-- Datos financieros
+### Data Cleaning & ETL Pipeline
 
-- Especializado en análisis y limpieza de datos con enfoque en soluciones reales para empresas.
+Sistema de validación y limpieza de datos diseñado para empresas que manejan información sensible.
 
-✔ Eliminación de datos duplicados  
-✔ Validación de información sensible  
-✔ Automatización de procesos (ETL)  
-✔ Integración con bases de datos  
+✔ Eliminación de duplicados  
+✔ Validación de datos  
+✔ Separación de datos (clean / quarantine)  
+✔ Automatización ETL  
 
-Tecnologías: Python | Pandas | SQL | Airflow | AWS | PostgreSQL
+---
+
+## 🛠️ Tecnologías
+
+Python | Pandas | SQL | Airflow | AWS | PostgreSQL
+
+---
+
+## 📩 Contacto
+
+📧 brayan1528.bg@gmail.com  
